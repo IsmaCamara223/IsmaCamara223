@@ -3,12 +3,12 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a Cyber security student at Kennesaw States University
+Hello, my name is Ismael. I am a senior year student at Kennesaw States University currently pursuing a Bachelor's degree in Information Technology with a concentration in Cybersecurity. Nice to meet you!
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-As stated above, I am currently studying Cyber security and I grew a deep passion with the field. I am especially interested in Ethical Hacking and Security Architect.  
+As stated above, I am currently studying Cyber security and I grew a deep passion with the field. I am especially interested in Ethical Hacking and Security Architecture.  
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
