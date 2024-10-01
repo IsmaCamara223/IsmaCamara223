@@ -1,12 +1,10 @@
 # Hello, I'm Ismael
 <a href="https://www.linkedin.com/in/ismael-camara-a99218228/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 Hello, my name is Ismael. I am a senior year student at Kennesaw States University currently pursuing a Bachelor's degree in Information Technology with a concentration in Cybersecurity. Nice to meet you!
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 As stated above, I am currently studying Cyber security and I grew a deep passion with the field. I am especially interested in Ethical Hacking and Security Architecture.  
 
