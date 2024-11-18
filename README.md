@@ -1,4 +1,4 @@
-# Hello, Welcome on my portfolio
+# Hello, welcome on my portfolio!
 <a href="https://www.linkedin.com/in/ismaelcamara223"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
