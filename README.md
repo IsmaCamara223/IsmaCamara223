@@ -8,16 +8,14 @@ Hello, my name is Ismael. I am a senior year student at Kennesaw States Universi
 
 Aspiring cybersecurity professional with a strong foundation in IT security principles, hands-on experience in malware analysis, and proactive cyber defense techniques. Seeking a Security Engineer/Analyst Internship to apply technical skills, enhance organizational security posture, and drive threat detection and mitigation strategies.
 
-## Skills
+## Projects
 
-| Skill                                         | Associated Project         |
+| Project Name                                         | Learn more...         |
 |-----------------------------------------------|----------------------------|
-| Malware Analysis Lab        | <a href="https://github.com/IsmaCamara223/Malware-Analysis-Lab/tree/main">Malware Analysis Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Malware Analysis Lab        | <a href="https://github.com/IsmaCamara223/Malware-Analysis-Lab/tree/main">Learn more...</a>|
+| Honeypot | <a href="https://google.com">Learn more...</a>|
+| Python Security Automation | <a href="https://google.com">Learn more...</a>|
+
 
 ## Tools
 
@@ -50,6 +48,3 @@ Aspiring cybersecurity professional with a strong foundation in IT security prin
 
 </div>
 
-## Projects
-- <a href="https://github.com/IsmaCamara223/Malware-Analysis-Lab/tree/main">Malware Analysis Lab</a>
-- SOC Automation Project
