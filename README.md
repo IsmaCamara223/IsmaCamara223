@@ -27,7 +27,7 @@ Aspiring cybersecurity professional with a strong foundation in IT security prin
        
 </div>
 
-### Platforms $ Virtual Machines 
+### Platforms & Virtual Machines 
 <div>
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
