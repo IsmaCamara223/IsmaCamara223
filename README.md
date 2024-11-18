@@ -13,7 +13,7 @@ Aspiring cybersecurity professional with a strong foundation in IT security prin
 | Project Name                                         | Learn more...         |
 |-----------------------------------------------|----------------------------|
 | Malware Analysis Lab        | <a href="https://github.com/IsmaCamara223/Malware-Analysis-Lab/tree/main">Learn more...</a>|
-| Honeypot | <a href="https://google.com">Learn more...</a>|
+| Honeypot | <a href="https://github.com/IsmaCamara223/Honeypot/tree/main">Learn more...</a>|
 | Python Security Automation | <a href="https://google.com">Learn more...</a>|
 
 
