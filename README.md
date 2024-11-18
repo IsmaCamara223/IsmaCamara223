@@ -12,7 +12,7 @@ Aspiring cybersecurity professional with a strong foundation in IT security prin
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Malware Analysis Lab        | <a href="https://github.com/IsmaCamara223/Malware-Analysis-Lab/tree/main">Malware Analysis Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -51,5 +51,5 @@ Aspiring cybersecurity professional with a strong foundation in IT security prin
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/IsmaCamara223/Malware-Analysis-Lab/tree/main">Malware Analysis Lab</a>
 - SOC Automation Project
