@@ -17,6 +17,9 @@ Aspiring cybersecurity professional with a strong foundation in IT security prin
 | Python Security Automation | <a href="https://google.com">Learn more...</a>|
 | IT Capstone Project: Enhancement of Google SecOps with Comprehensive Security Sensor | <a href="https://github.com/IsmaCamara223/Google-SecOps/blob/main/README.md">Learn more...</a>|
 | Security Innovation Penetration Testing | <a href="https://google.com">Learn more...</a>|
+| Python Projects | <a href="https://github.com/IsmaCamara223/Python-Labs">Learn more...</a>|
+| HTML/CSS Projects | <a href="https://github.com/IsmaCamara223/Simple-Website-HTML-CSS-Practice">Learn more...</a>|
+
 
 
 
