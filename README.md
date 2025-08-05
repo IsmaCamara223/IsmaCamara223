@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/ismaelcamara223"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Hello, my name is Ismael. I am a senior year student at Kennesaw States University currently pursuing a Bachelor's degree in Information Technology with a concentration in Cybersecurity. Nice to meet you!
+Hello, my name is Ismael. I am a recent graduate from Kennesaw States University with Bachelor's degree in Information Technology with a concentration in Cybersecurity. Nice to meet you!
 
 ## Objective
 
