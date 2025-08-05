@@ -15,7 +15,7 @@ Aspiring cybersecurity professional with a strong foundation in IT security prin
 | Malware Analysis Lab        | <a href="https://github.com/IsmaCamara223/Malware-Analysis-Lab/tree/main">Learn more...</a>|
 | Honeypot | <a href="https://github.com/IsmaCamara223/Honeypot/tree/main">Learn more...</a>|
 | Python Security Automation | <a href="https://google.com">Learn more...</a>|
-| IT Capstone Project: Enhancement of Google SecOps with Comprehensive Security Sensor | <a href="https://google.com">Learn more...</a>|
+| IT Capstone Project: Enhancement of Google SecOps with Comprehensive Security Sensor | <a href="https://github.com/IsmaCamara223/Google-SecOps/blob/main/README.md">Learn more...</a>|
 | Security Innovation Penetration Testing | <a href="https://google.com">Learn more...</a>|
 
 
