@@ -55,4 +55,5 @@ Aspiring cybersecurity professional with a strong foundation in IT security prin
 
 </div>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/KalashPopPop.png" alt="Your Image Badge" />
 
