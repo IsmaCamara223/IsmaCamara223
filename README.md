@@ -6,7 +6,7 @@ Hello, my name is Ismael. I am a recent graduate from Kennesaw States University
 
 ## Objective
 
-Aspiring cybersecurity professional with a strong foundation in IT security principles, hands-on experience in malware analysis, and proactive cyber defense techniques. Seeking a Security Engineer/Analyst Internship to apply technical skills, enhance organizational security posture, and drive threat detection and mitigation strategies.
+This is my portfolio where I try to keep track of any projects I've worked on!
 
 ## Projects
 
