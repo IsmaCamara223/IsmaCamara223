@@ -13,7 +13,7 @@ This is my portfolio where I try to keep track of any projects I've worked on!
 | Project Name                                         | Learn more...         |
 |-----------------------------------------------|----------------------------|
 | Malware Analysis Lab        | <a href="https://github.com/IsmaCamara223/Malware-Analysis-Lab/tree/main">Learn more...</a>|
-| Simple Encryption Tool       | <a href="https://github.com/IsmaCamara223/Malware-Analysis-Lab/tree/main">Learn more...</a>|
+| Simple Encryption Tool       | <a href="https://github.com/IsmaCamara223/Simple-Encryption-Tool">Learn more...</a>|
 | Honeypot | <a href="https://github.com/IsmaCamara223/Honeypot/tree/main">Learn more...</a>|
 | Python Security Automation | <a href="https://google.com">Learn more...</a>|
 | IT Capstone Project: Enhancement of Google SecOps with Comprehensive Security Sensor | <a href="https://github.com/IsmaCamara223/Google-SecOps/blob/main/README.md">Learn more...</a>|
